@@ -10,9 +10,9 @@ project:
   abbreviations:
     MyST: Markedly Structured Text
     CDK: cell development kit
-  keywords:
-    - Cytosol
-    - Module
+  # keywords:
+  #   - Cytosol
+  #   - Module
   plugins:
     - lorem.mjs
   jupyter: true
