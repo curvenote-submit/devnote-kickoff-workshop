@@ -1,6 +1,7 @@
 version: 1
 extends: base.yml
 project:
+  id: nucleus-devnote-core-devcells-kickoff-workshop
   title: 'DevCells: Kickoff Workshop'
   description: ''
   subtitle: ''
