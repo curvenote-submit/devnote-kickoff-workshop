@@ -16,10 +16,10 @@ project:
     - name: DevCells Kickoff Workshop
       email: build@bnext.bio
       corresponding: true
-      affiliations: 
+      affiliations:
         name: Nucleus Labs, San Francisco, CA
     # - name: Charlie Newell
-    #   affiliations: 
+    #   affiliations:
     #   - id: booth-lab
     #     name: Booth Lab, UCL, London
     #     institution: University College London
@@ -158,7 +158,7 @@ project:
     #   email: antonmolina@bnext.bio
     #   corresponding: true
     #   affiliations:
-    #   - id: bnext 
+    #   - id: bnext
     #     name: b.next, San Francisco, CA
     #     institution: b.next
     #     city: San Francisco
@@ -169,7 +169,7 @@ project:
     #   orcid: 0009-0009-5630-957X
     #   corresponding: true
     #   affiliations:
-    #   - id: bnext 
+    #   - id: bnext
     #     name: b.next, San Francisco, CA
     #     institution: b.next
     #     city: San Francisco
@@ -197,7 +197,6 @@ project:
       title: Lab Notebook Entry
     - url: experiments/BOM Kickoff.pdf
       title: Bill of Materials
-  id: b6272c31-dae6-4c60-bf48-a86466349d86
   references:
     devnotes:
       url: https://devnotes.bnext.bio
@@ -224,7 +223,6 @@ project:
     - Resources/**/*
     - plasmids/**/*
     - Plasmids/**/*
-  plugins:
 # site:
 #   nav: []
 #   template: article-theme
@@ -236,6 +234,4 @@ project:
 #       url: https://curvenote.com/docs/web
 #   domains:
 #     - amolina.curve.space
-extend:
-  - /home/jovyan/devnotes/kickoff/kickoff-experimental/base.yml
 
