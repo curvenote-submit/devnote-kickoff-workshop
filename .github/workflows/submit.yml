@@ -8,6 +8,7 @@ jobs:
   create-submission:
     uses: curvenote/actions/.github/workflows/submit.yml@v1
     with:
+      id-pattern-regex: '^nucleus-devnote-(?:[a-zA-Z0-9-_]{3,36})$'
       venue: bnext-devnotes
       kind: devnote
       collection: developer-cells
